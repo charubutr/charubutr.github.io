@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Special Lecture Series"
+permalink: https://sites.google.com/view/deepkmitl/home
+venue: "KMITL, Bioengineering"
+date: 2017-09
 location: "City, Country"
 ---
 
