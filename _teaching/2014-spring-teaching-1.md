@@ -4,7 +4,7 @@ collection: teaching
 type: "Special Lecture Series"
 permalink: https://sites.google.com/view/deepkmitl/home
 venue: "KMITL, Bioengineering"
-date: 2017-09
+date: 2017-09-01
 location: "City, Country"
 ---
 
